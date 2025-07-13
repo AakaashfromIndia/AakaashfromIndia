@@ -1,10 +1,9 @@
 <h1 align="center">This is Aakaash 🌌</h1>
-<h3 align="center">An aspiring computational astrophysicist from India</h3>
+<h3 align="center">An aspiring computational astrophysicist from Chennai, India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/aakaash-a-in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakaash-a-in/" height="30" width="40" /></a>
-</p>
+
 
 
 
